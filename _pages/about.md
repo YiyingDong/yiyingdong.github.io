@@ -13,12 +13,12 @@ I am very fortunate to be advised by [Prof. Jiannong Cao](https://www4.comp.poly
 
 # Research Interests
 
-My research interest includes **Multimodal Large Language Model, Embodied AI and related areas.**.
+My research interest includes **Multimodal Large Language Model, Embodied AI and related areas**.
 
 # Education
 ======
-* Ph.D in The Hong Kong Polytechnic University (PolyU), 2028 (expected)
-* B.S. in The University of Posts and Telecommunications (CQUPT), 2022
+* Ph.D. in The Hong Kong Polytechnic University (PolyU), 2028 (expected)
+* B.S. in The University of Posts and Telecommunications (CQUPT), 2022✅
 
 # Work experience
 ======
@@ -38,4 +38,4 @@ Interests: Travelling, Photography, Video editing
 
 You can find my CV here: [Yiying Dong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-<a href="yiying.dong@connect.polyu.hk">Email</a> / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
+[mail](<yiying.dong@connect.polyu.hk>) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
