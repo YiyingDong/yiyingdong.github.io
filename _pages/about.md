@@ -36,6 +36,7 @@ My research interest includes **Multimodal Large Language Model, Embodied AI and
 Activities: teaching assistant, laboratory supervisor, academic conference coordinator, student union 
 Interests: Travelling, Photography, Video editing
 
-You can find my CV here: [Yiying Dong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [mail](mailto:yiying.dong@connect.polyu.hk) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
+<!-- You can find my CV here: [Yiying Dong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).>
+
+
