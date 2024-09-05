@@ -37,6 +37,7 @@ Activities: teaching assistant, laboratory supervisor, academic conference coord
 Interests: Travelling, Photography, Video editing
 
 [mail](mailto:yiying.dong@connect.polyu.hk) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
+
 <!-- You can find my CV here: [Yiying Dong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).>
 
 
