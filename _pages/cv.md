@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * Ph.D in The Hong Kong Polytechnic University (PolyU), 2028 (expected)
 * B.S. in The University of Posts and Telecommunications (CQUPT), 2022
 
-Work experience
+### Work experience
 ======
 * Spring 2024: Research Assistant
   * Eastern Institute of Technology, Ningbo
