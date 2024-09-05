@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiying Dong"
-  pronouns         : She # example: "she/her"  
+  pronouns         : she/her # example: "she/her"  
   bio              : "A PhD student interested in MLLM, RAG and Embodied AI."
   location         : "HongKong 🇭🇰"
   employer         : "PolyU and EIT"
