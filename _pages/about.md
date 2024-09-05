@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Jiannong Cao](https://www4.comp.poly
 
 You can find my CV here: [Yiying Dong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:yiying.dong@connect.polyu.hk) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
+[Email]<a href="mailto:yiying.dong@connect.polyu.hk">yiying.dong@connect.polyu.hk</a> / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
