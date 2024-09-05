@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yiying Dong/About Me"
+title                    : "Yiying Dong's Website"
 title_separator          : "-"
 name                     : &name "Yiying Dong"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiying Dong"
-  pronouns         : She# example: "she/her"  
-  bio              : "A COMP PhD student interested in MLLM, RAG, Embodied AI"
-  location         : "HongKong 🇭🇰"
+  pronouns         : # example: "she/her"  
+  bio              : "A PhD student interested in MLLM, RAG and Embodied AI."
+  location         : "Earth"
   employer         : "PolyU and EIT"
   uri              : # URL
   email            : "yiying.dong@connect.polyu.hk" 
