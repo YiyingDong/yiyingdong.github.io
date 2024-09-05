@@ -18,7 +18,7 @@ My research interest includes **Multimodal Large Language Model, Embodied AI and
 # Education
 ======
 * Ph.D. in The Hong Kong Polytechnic University (PolyU), 2028 (expected)
-* B.S. in The University of Posts and Telecommunications (CQUPT), 2022✅
+* B.S. in The University of Posts and Telecommunications (CQUPT), 2022 ✅
 
 # Work experience
 ======
@@ -38,4 +38,4 @@ Interests: Travelling, Photography, Video editing
 
 You can find my CV here: [Yiying Dong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[mail](<yiying.dong@connect.polyu.hk>) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
+[mail](mailto:yiying.dong@connect.polyu.hk) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
