@@ -12,16 +12,16 @@ main:
   #   url: /talks/   
   
   # - title: "CV"
-  #   url: /cv/
+  #   url: ../assets/cv.pdf
   
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Photo"
+    url: /markdown/
