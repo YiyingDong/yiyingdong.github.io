@@ -2,8 +2,8 @@
 title: "Retrieval Meets Long Context Large Language Models"
 collection: publications
 category: Conference
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 2024
+permalink: /publication/2024-1-16-Retrieval-Meets-Long-Context-Large-Language-Models
+date: 2024-01-16
 venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=xw5nxFWMlo'
 ---
