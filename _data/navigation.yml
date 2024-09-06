@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Readling Lists"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/   
@@ -23,5 +23,5 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Photo"
-    url: /markdown/
+  # - title: "Gudience"
+  #   url: /markdown/
