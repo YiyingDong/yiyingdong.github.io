@@ -36,6 +36,6 @@ My research interest includes **Multimodal Large Language Model, Embodied AI and
 Activities: teaching assistant, laboratory supervisor, academic conference coordinator, student union 
 Interests: Travelling, Photography, Video editing
 
-[Mail](mailto:yiying.dong@connect.polyu.hk) / [Github](https://github.com/YiyingDong) / [Wechat](../images/Wechat.jpg)
+[Mail](mailto:yiying.dong@connect.polyu.hk) / [Github](https://github.com/YiyingDong)
 
 
